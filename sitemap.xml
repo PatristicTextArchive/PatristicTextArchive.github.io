@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/news/</loc>
+    <loc>https://patristictextarchive.github.io/posts/news/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/pages/about/</loc>
+    <loc>https://patristictextarchive.github.io/pages/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/pages/texts/</loc>
+    <loc>https://patristictextarchive.github.io/pages/texts/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/pages/encoding/</loc>
+    <loc>https://patristictextarchive.github.io/pages/encoding/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/pages/contributing/</loc>
+    <loc>https://patristictextarchive.github.io/pages/contributing/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/pages/contact/</loc>
+    <loc>https://patristictextarchive.github.io/pages/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/pta0001/</loc>
+    <loc>https://patristictextarchive.github.io/posts/pta0001/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/pta0022/</loc>
+    <loc>https://patristictextarchive.github.io/posts/pta0022/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/pta0100/</loc>
+    <loc>https://patristictextarchive.github.io/posts/pta0100/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/pages/</loc>
+    <loc>https://patristictextarchive.github.io/pages/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://patristictextarchive.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://patristictextarchive.github.io/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://patristictextarchive.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
