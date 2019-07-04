@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://patristictextarchive.github.io/posts/news/</guid>
-      <description> 2019-01-01: Preview of the “Berlin Patristic Text Archive” goes live.  </description>
+      <description> 2019-07-04: Added some new texts; some errors in texts corrected; schema updated (documentation following soon) 2019-01-01: Preview of the “Berlin Patristic Text Archive” goes live.  </description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ The archive starts off with only a few authors: First of all with Severian of Ga
       
       <guid>https://patristictextarchive.github.io/pages/encoding/</guid>
       <description>All files are encoded according to the PTA-Schema.
-More information still to be written&amp;hellip;</description>
+More information still to be written&amp;hellip; Preliminary encoding guidelines (in German only at the moment) in tei-pta.odd in PTA-Schema.</description>
     </item>
     
     <item>
